@@ -6,11 +6,11 @@ Observamos gran cantidad de modelos y colores de vehículos, así que decidimos 
 
 - Para los modelos los agrupamos en series
 
-![Alt text](/Report-BI/group_modelo.png.png)
+![Alt text](/Report-BI/group_modelo.png)
 
 - Para los colores los agrupamos según su personalización y los de fábrica 
 
-![Alt text](/Report-BI/group_color.png.png.png)
+![Alt text](/Report-BI/group_color.png)
 
 
 ## Conclusiones de algunas correlaciones
