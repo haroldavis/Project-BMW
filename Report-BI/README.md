@@ -15,6 +15,6 @@ Observamos gran cantidad de modelos y colores de vehículos, así que decidimos 
 
 ## Conclusiones de algunas correlaciones
 
-Variable como Km, Potencias y Antiguedad tienen un tipo de tendencia con el precio
+Variables como Km, potencia y antiguedad tienen un tipo de tendencia con el precio
 
 ![Alt text](/Report-BI/conclusiones.png)

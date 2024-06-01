@@ -8,7 +8,7 @@ El objetivo de este dataset es predecir el precio del vehículo, para ello en es
 - Nuestro entorno de trabajo será Visual Estudio Code y Git(Trabajamos sobre la rama develop y el entregable se mostrará en la rama master).
 - Usaremos Power BI para generar resumenes visuales y/o reportes
 
-## Sprint 1
+### Sprint 1
 
 - Revisamos el dataset 🚘
 
@@ -18,13 +18,16 @@ El objetivo de este dataset es predecir el precio del vehículo, para ello en es
 
     Limpiamos los datos e información que no aporta valor. 
 
-## Sprint 2
+### Sprint 2
 
 - Gestionamos y manejamos los datos según necesidad para uso de futuro modelo de predicción.
 
-## Sprint 3
+### Sprint 3
 
 - Se estandarizan variables(características de los vehículos) y se deja listo para aplicar modelo
 
     
+## Resumen General 
+
+![Alt text](/Report-BI/Report_precio_bmw.png.png)
 
