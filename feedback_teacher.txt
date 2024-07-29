@@ -1,0 +1,6 @@
+Muy buen trabajo y muy buena limpieza y preprocesamiento,
+me ha gustado la idea de agrupar en colores entre los estandar y los personalizados, 
+además los modelos categorizarlos en serie ,
+como único punto de mejora es la columna de combustible, 
+no es lo suficientemente rica como para mantenerla en el modelo, 
+se podría eliminar.
