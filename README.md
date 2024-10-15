@@ -12,7 +12,9 @@ El objetivo de este dataset es predecir el precio del vehículo, para ello en es
 
 - Revisamos el dataset 🚘
 
-    Dataset provisto es una base de datos de la marca de autos BMW en el mercado de segunda mano, Contiene características de los vehículos que fueron vendidos con anterioridad. ![alt text](image.png)
+    Dataset provisto es una base de datos de la marca de autos BMW en el mercado de segunda mano, Contiene características de los vehículos que fueron vendidos con anterioridad. 
+
+    ![alt text](image.png)
 
 - Eliminamos información.
 
